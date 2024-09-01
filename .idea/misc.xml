@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cards/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/loans/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/account/account/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/getway/getway/pom.xml" />
+        <option value="$PROJECT_DIR$/account/pom.xml" />
+        <option value="$PROJECT_DIR$/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK" />
+</project>
